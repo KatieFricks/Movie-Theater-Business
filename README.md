@@ -1,2 +1,4 @@
 # Movie-Theater-Business
-Examining what different relationships are associated within the movie theater business.
+It is crucial to dive into businesses and identify all of the working pieces associated with the company. Using MySQL, our team identified the scope of our E-R Diagram to focuse on the different relationships and inner functions of the Movie Theatre Business. This includes employee assignments, the relationship of chairs to rooms, the showing of movies, as well as the purchasing of tickets and food with their associated transactions recorded.
+
+Our team chose this domain to shed light on the underrated business. This is to ensure consumers understand how much work gets put into the operational department of the Movie Theater business. The “Operations Function” is pivotal in understanding efficient processes within the industry and the various methods to make the company profitable, such as coupons, reservations, and more. We are excited to take you on this journey with us!
